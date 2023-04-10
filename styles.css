@@ -1,0 +1,27 @@
+.item-img {
+    max-width: 10%;
+    height: auto;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+.pro_mene{
+    margin: 0 0 50px 0;
+    max-width: 50%;
+    height: auto;
+    font-size: 20px;
+
+}
+.nav{
+    margin: 0 0 35px 0;
+    max-width: 50%;
+    height: auto;
+    font-size: 20px;
+}
+.contacts{
+    margin: 0 0 35px 0;
+    max-width: 50%;
+    height: auto;
+    font-size: 16px;
+}
